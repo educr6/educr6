@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 - My name is Eduardo
+
+Still dont know what exactly to write on here, but it will soon be updated!
 
 <!--
 **educr6/educr6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
