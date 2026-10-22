@@ -1,6 +1,8 @@
 ### Hi there 👋 - My name is Eduardo
 
-Still dont know what exactly to write on here, but it will soon be updated!
+Software engineer based in the Dominican Republic!
+Full-stack developer, backend-leaning, working with everything related to TypeScript, Go, GCP, AWS, and Kubernetes.
+Also exploring DevOps / Infra training as well
 
 <!--
 **educr6/educr6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
